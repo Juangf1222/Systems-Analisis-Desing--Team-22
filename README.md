@@ -2,7 +2,7 @@
 # American Express – Default Prediction (Systems Analysis)
 
 # Overview
-This repository contains the deliverables for **Workshop 1** of the Systems Analysis & Design course.  
+This repository contains the deliverables for the proyect of the Systems Analysis & Design course.  
 The chosen competition is **American Express – Default Prediction**, which aims to predict whether a customer will default on their future credit obligations using anonymized financial transaction data.
 
 # Objectives

@@ -57,8 +57,7 @@ The system shows strengths in its modular architecture, advanced feature enginee
 ---
 
 # PDF Link
-https://udistritaleduco-my.sharepoint.com/:b:/g/personal/jpgalindof_udistrital_edu_co/EYCwIrWb1nFApX6X48ybRGIBcf-NH6_x6yq9oye_RDNAug?e=FYWxPS
-
+https://udistritaleduco-my.sharepoint.com/:b:/g/personal/jpgalindof_udistrital_edu_co/EdpmRS3ZU-NCkI0QZDAzkpUBgYkU0BlXbcGsXGIgTUoN9w?e=r879Vq
 
 
 

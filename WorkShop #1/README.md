@@ -1,4 +1,4 @@
-# Systems-Analisis-Desing--Team-22
+# Systems-Analisis-Desing-Team-22
 
 ---
 
@@ -53,6 +53,11 @@ Potential sources of nonlinear and unpredictable behavior were explored: human v
 # Conlusion
 
 The system shows strengths in its modular architecture, advanced feature engineering, and robust ensemble modeling, reinforced by strong validation and monitoring practices. However, it is also highly sensitive to parameter tuning, data distribution shifts, and external randomness. Its long-term success relies on continuous monitoring, feedback loops, and rigorous control of variability across the pipeline.
+
+---
+
+# PDF Link
+https://udistritaleduco-my.sharepoint.com/:b:/g/personal/jpgalindof_udistrital_edu_co/EYCwIrWb1nFApX6X48ybRGIBcf-NH6_x6yq9oye_RDNAug?e=FYWxPS
 
 
 

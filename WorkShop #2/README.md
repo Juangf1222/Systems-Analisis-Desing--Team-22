@@ -1,4 +1,8 @@
 # Systems-Analisis-Desing-Team-22
+Alejandro Linarez - 20231020132
+German Dario Aya Fuentes - 20232020091
+Juan Pablo Galindo Florez - 20231020230
+Stevens Camilo Llanos Acero - 20231020221
 
 ---
 

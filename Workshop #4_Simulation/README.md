@@ -130,6 +130,6 @@ Conclusions
 
 # Authors
 
-Juan Pablo Galindo Flórez
+Juan Pablo Galindo Flórez - 20231020230
 
-Stevens Camilo Llanos Acero
+Stevens Camilo Llanos Acero - 20231020221

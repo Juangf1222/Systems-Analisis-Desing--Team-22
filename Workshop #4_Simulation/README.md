@@ -1,10 +1,3 @@
-This repository contains the simulations developed for Workshop 4 of the Modeling and Simulation course, as part of the SmartRisk project inspired by the American Express – Default Prediction Kaggle competition.
-
-The purpose of this workshop is to validate the system’s behavior through two complementary simulations:
-
-Data-Driven Simulation (Machine Learning)
-
-Event-Based Simulation (Cellular Automaton)
 
 These simulations allow analyzing sensitivity, emergent behavior, and the dynamics of credit default risk in a controlled environment.
 # 1. Data-Driven Simulation

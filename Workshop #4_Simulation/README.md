@@ -7,7 +7,7 @@ Data-Driven Simulation (Machine Learning)
 Event-Based Simulation (Cellular Automaton)
 
 These simulations allow analyzing sensitivity, emergent behavior, and the dynamics of credit default risk in a controlled environment.
-##1. Data-Driven Simulation
+# 1. Data-Driven Simulation
 
 This simulation uses a synthetic dataset of 20,000 customers with financial and behavioral features inspired by the Kaggle competition, including:
 
@@ -57,7 +57,7 @@ roc_curve.png
 
 pr_curve.png
 
-##2. Event-Based Simulation (Cellular Automaton)
+# 2. Event-Based Simulation (Cellular Automaton)
 
 This simulation models the propagation of credit default as a spatial and dynamic process, using a 60×60 cellular automaton.
 
@@ -85,7 +85,7 @@ ca_fraction.png
 
 ca_final_map.png
 
-##Requirements
+# Requirements
 
 To run the notebook you need:
 
@@ -104,7 +104,7 @@ Jupyter Notebook / JupyterLab
 
 VSCode with Jupyter extension
 
-##How to Run the Notebook
+# How to Run the Notebook
 
 Open simulation_notebook.ipynb.
 
@@ -114,11 +114,9 @@ Run all cells in order.
 
 All outputs will be automatically saved to the simulation_outputs/ folder.
 
-##Report
+# Report
 
 The file Workshop_4_Report.pdf includes:
-
-Introduction
 
 Simulation methodology
 
@@ -130,7 +128,7 @@ Sensitivity and chaos discussion
 
 Conclusions
 
-👥 Authors
+# Authors
 
 Juan Pablo Galindo Flórez
 

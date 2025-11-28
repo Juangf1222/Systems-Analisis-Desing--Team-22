@@ -1,5 +1,4 @@
 
-These simulations allow analyzing sensitivity, emergent behavior, and the dynamics of credit default risk in a controlled environment.
 # 1. Data-Driven Simulation
 
 This simulation uses a synthetic dataset of 20,000 customers with financial and behavioral features inspired by the Kaggle competition, including:

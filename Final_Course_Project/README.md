@@ -83,13 +83,13 @@ https://udistritaleduco-my.sharepoint.com/:b:/g/personal/jpgalindof_udistrital_e
 
 ---
 
-## Final Slides (PDF)
+## Final Slides (Canva)
 
 https://www.canva.com/design/DAG2wVwmC9U/0VyfARLmctVjVNXxrplugw/edit?utm_content=DAG2wVwmC9U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
-## Final Poster (PDF)
+## Final Poster (Canva)
 
 https://www.canva.com/design/DAG2vpVNLbM/eArllaQTZsxfXFN3olpLIA/edit?utm_content=DAG2vpVNLbM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

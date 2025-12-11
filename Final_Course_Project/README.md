@@ -100,6 +100,3 @@ https://www.canva.com/design/DAG2vpVNLbM/eArllaQTZsxfXFN3olpLIA/edit?utm_content
 Juan Pablo Galindo Flórez - 20231020230
 
 Stevens Camilo Llanos Acero - 20231020221
-
-Universidad Distrital Francisco José de Caldas, 2024–2025.
-

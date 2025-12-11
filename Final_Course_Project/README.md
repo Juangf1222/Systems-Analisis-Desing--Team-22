@@ -43,7 +43,6 @@ Figures generated:
 
 - `roc_curve.png`
 - `pr_curve.png`
-- `feature_importances.png`
 
 ---
 
@@ -61,7 +60,7 @@ Output: `ca_summary.csv` + plot `ca_fraction.png`
 ---
 
 ### 4. Experiments Summary
-The `experiments_summary.ipynb` notebook compiles:
+The notebooks folder compiles:
 
 - ML performance analysis  
 - Feature importance  
